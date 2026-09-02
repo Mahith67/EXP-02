@@ -1,4 +1,6 @@
 # Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
+## Name: Mahith M
+## Register No: 212225240082
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
@@ -69,6 +71,8 @@ If the goal is met, the creator can withdraw funds.
 
 If the goal is not met, contributors can claim a refund.
 
+<img width="1250" height="679" alt="crowdfunding 2" src="https://github.com/user-attachments/assets/d5722ec1-3dae-4e19-9a67-1601c25ed66d" />
+<img width="1260" height="664" alt="crowdfunding 1" src="https://github.com/user-attachments/assets/68cfc1df-950d-43bf-b38e-c8f2558a0cbe" />
 
 # High-Level Overview:
 Teaches decentralized fundraising.
@@ -77,3 +81,4 @@ Teaches decentralized fundraising.
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
+ The program is successfully executed and verified.
